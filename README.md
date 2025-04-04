@@ -1,6 +1,6 @@
 **Sobre o Programa "Electronics Store"**  
 
-O software *Electronics Store 2022 (Beta Edition)* é um projeto acadêmico desenvolvido como parte da disciplina de **Raciocínio Computacional** no curso de **Superior de Tecnologia em Gestão da Tecnologia da Informação**, oferecido pela **PUCPR - Pontifícia Universidade Católica do Paraná**.  
+O software *Electronics Store 2022 (Beta Edition)* é um projeto acadêmico desenvolvido como parte da disciplina de **Fundamentos da Programação Orientada a Objetos** no curso de **Superior de Tecnologia em Gestão da Tecnologia da Informação**, oferecido pela **PUCPR - Pontifícia Universidade Católica do Paraná**.  
 
 ### **Detalhes do Projeto**  
 - **Nome:** Electronics Store 2022 (Beta Edition)  
