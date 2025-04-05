@@ -17,4 +17,4 @@ O projeto foi desenvolvido por **Edson Luiz Machado** (RA: 1112022208857), como 
 ### **Direitos Autorais**  
 O programa é de propriedade intelectual de **Edson Luiz Machado**, com **copyright © 2022**.  
 
-Esse projeto representa um esforço acadêmico para a criação de um sistema de gerenciamento de uma loja de eletrônicos, sendo implementado com tecnologias modernas e executado em um ambiente baseado em Java.
+Esse projeto representa um esforço acadêmico para a criação de um sistema de gerenciamento de uma loja de eletrônicos, simples e funcional, totalmente implementado em linguagem java.
